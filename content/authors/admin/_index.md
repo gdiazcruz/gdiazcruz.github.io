@@ -8,7 +8,7 @@ awards:
   title: General Governor Gold Medal
 - awarder: Brandon University
   date: "2018"
-  title: General Governor Gold Medal
+  title: Brandon University Gold Medal
 education:
 - area: PhD Artificial Intelligence
   date_end: "2020-12-31"
