@@ -41,8 +41,6 @@ profiles:
   url: https://www.linkedin.com/
 - icon: "academicons/google-scholar"
   url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
 role: Lecturer and researcher
 highlight_name: true
 ---
