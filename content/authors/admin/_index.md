@@ -45,11 +45,4 @@ bio: My research interests include leadership, team science, and open science
 ## About Me
 
 I am a plant pathologist at the [Crop Protection Research Center (CIPROC)](https://ciproc.ucr.ac.cr) of the Agronomy School in the University of Costa Rica. I completed my PhD at Memorial University of Newfoundland (2018-2023) under the supervision of [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/). I completed my MSc in Life and Environmental Sciences at Brandon University under the supervision of [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/).
-
-<center> 
-
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
 ---
- 
-
