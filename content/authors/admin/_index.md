@@ -1,55 +1,97 @@
 ---
 awards:
-- awarder: Brandon University
-  date: "October 2018"
-  title: Governor General's Gold medal (Master's level).
-- awarder: Brandon University
-  date: "October 2018"
-  title: Gold medal in the Master of Science (Environmental and Life Sciences)
-- awarder: Brandon University
-  date: "2018"
-  title: Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
+- awarder: Coursera
+  date: "2023-11-25"
+  icon: coursera
+  summary: |
+    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  title: Neural Networks and Deep Learning
+  url: https://www.coursera.org/learn/neural-networks-deep-learning
+- awarder: edX
+  date: "2023-07-01"
+  icon: edx
+  summary: |
+    Learned:
+    - Synthesize your own blockchain solutions
+    - Gain an in-depth understanding of the specific mechanics of Bitcoin
+    - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- awarder: datacamp
+  certificate_url: https://www.datacamp.com
+  date: "2023-01-21"
+  icon: datacamp
+  summary: |
+    Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  title: Object-Oriented Programming in R
+  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
 - area: PhD Artificial Intelligence
+  button:
+    text: Read Thesis
+    url: https://example.com
   date_end: "2020-12-31"
   date_start: "2016-01-01"
   institution: Stanford University
+  summary: |
+    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 - area: MEng Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
   institution: Massachusetts Institute of Technology
+  summary: |
+    GPA: 3.8/4.0
+
+    Courses included:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
   institution: Massachusetts Institute of Technology
-first_name: Gustavo
+  summary: |
+    GPA: 3.4/4.0
+
+    Courses included:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+first_name: Shiung Wu
 highlight_name: true
 interests:
-- PENDING
-- PENDING
-- PENDING
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 languages:
 - name: English
-  percent: 90
-- name: Spanish
-  percent: native
+  percent: 100
+- name: Chinese
+  percent: 75
+- name: Portuguese
+  percent: 25
 last_name: Chien
+name_pronunciation: Chien Shiung Wu
 organizations:
-- name: Crop Protection Research Center - University of Costa Rica
-  url: https://ciproc.ac.cr/
+- name: OpenAI
+  url: https://openai.com/
 profiles:
 - icon: at-symbol
   label: E-mail Me
   url: mailto:your-email@example.com
+- icon: brands/x
+  url: https://twitter.com/GetResearchDev
+- icon: brands/instagram
+  url: https://www.instagram.com/
 - icon: brands/github
-  url: https://github.com/gdiazcruz
+  url: https://github.com/gcushen
 - icon: brands/linkedin
   url: https://www.linkedin.com/
 - icon: academicons/google-scholar
   url: https://scholar.google.com/
 - icon: academicons/orcid
   url: https://orcid.org/
-role: Researcher and lecturer
+role: Chief Scientist
 skills:
 - items:
   - description: ""
@@ -84,7 +126,7 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: 
+title: 吳健雄
 work:
 - company_logo: ""
   company_name: GenCoin
@@ -112,5 +154,4 @@ work:
 
 ## About Me
 
-I am a plant pathologist at the [Crop Protection Research Center (CIPROC)](https://ciproc.ucr.ac.cr) of the Agronomy School in the University of Costa Rica. I completed my PhD at Memorial University of Newfoundland (2018-2023) under the supervision of [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/). I completed my MSc in Life and Environmental Sciences at Brandon University under the supervision of [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/). 
-
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
