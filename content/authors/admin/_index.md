@@ -1,14 +1,14 @@
 ---
 awards:
 - awarder: Brandon University
-  date: "2018"
-  title: General Governor Gold Medal
+  date: "October 2018"
+  title: Governor General's Gold medal (Master's level).
+- awarder: Brandon University
+  date: "October 2018"
+  title: Gold medal in the Master of Science (Environmental and Life Sciences)
 - awarder: Brandon University
   date: "2018"
-  title: General Governor Gold Medal
-- awarder: Brandon University
-  date: "2018"
-  title: Brandon University Gold Medal
+  title: Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
 education:
 - area: PhD Artificial Intelligence
   date_end: "2020-12-31"
