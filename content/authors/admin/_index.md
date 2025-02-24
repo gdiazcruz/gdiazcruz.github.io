@@ -1,5 +1,5 @@
 ---
-title: "Gustavo Diaz Cruz"
+title: "Gustavo Díaz Cruz"
 education:
 - area: PhD Biology
   date_end: "2024-11-30"
