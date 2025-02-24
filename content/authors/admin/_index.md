@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Díaz Cruz"
 education:
-- area: PhD Biology
+- area: Ph.D Biology
   date_end: "2024-11-30"
   date_start: "2018-09-02"
   institution: Memorial University of Newfoundland
