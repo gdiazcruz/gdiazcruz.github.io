@@ -1,7 +1,7 @@
 ---
 date: "2023-10-24"
 design:
-  spacing: 5rem
+  spacing: 2rem
 sections:
 - block: resume-experience
   content:

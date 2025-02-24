@@ -20,21 +20,21 @@ education:
   summary: |
     Thesis on the analysis of the plant pathogenic *Streptomyces* strain 11-1-2 supervised by [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/).
 - area: M.Sc. Life and Environmental Sciences
-  date_end: "2016-09-01"
-  date_start: "2018-06-01"
+  date_end: "2018-06-01"
+  date_start: "2016-09-01"
   institution: Brandon University
   summary: |
     Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba. Supervised by [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/).
       GPA: 4.3/4.3
 - area: Licenciatura Biotechnology Engineering
-  date_end: "2012-02-01"
-  date_start: "2015-03-01"
+  date_end: "2015-03-01"
+  date_start: "2012-02-01"
   institution: Costa Rica Institute of Technology
   summary: |
     GPA: 92/100
 - area: B.Sc Biotechnology Engineering
-  date_end: "2007-02-01"
-  date_start: "2011-03-01"
+  date_end: "2011-03-012"
+  date_start: "007-02-01"
   institution: Costa Rica Institute of Technology
 first_name: ""
 highlight_name: true
@@ -107,8 +107,8 @@ work:
 - company_logo: ""
   company_name: Biotech CR GRM S.A.
   company_url: ""
-  date_end: "2011-05-15"
-  date_start: "2016-07-31"
+  date_end: "2016-07-31"
+  date_start: "2011-05-15"
   position: Plant pathology lab supervisor
   summary: |
     Responsibilities include:
