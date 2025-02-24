@@ -1,157 +1,122 @@
 ---
 awards:
-- awarder: Coursera
-  date: "2023-11-25"
-  icon: coursera
-  summary: |
-    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  title: Neural Networks and Deep Learning
-  url: https://www.coursera.org/learn/neural-networks-deep-learning
-- awarder: edX
-  date: "2023-07-01"
-  icon: edx
-  summary: |
-    Learned:
-    - Synthesize your own blockchain solutions
-    - Gain an in-depth understanding of the specific mechanics of Bitcoin
-    - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- awarder: datacamp
-  certificate_url: https://www.datacamp.com
-  date: "2023-01-21"
-  icon: datacamp
-  summary: |
-    Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-  title: Object-Oriented Programming in R
-  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+- awarder: Faculty of Science. Memorial University of Newfoundland
+  date: "2022-02-01"
+  title: First prize 3-Minute Thesis competition.
+- awarder: Brandon University
+  date: "2018-10-01"
+  title: Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
+- awarder: Brandon University
+  date: "2018-10-01"
+  title: Governor General's Gold medal (Master's level)
+- awarder: Brandon University
+  date: "2018-10-01"
+  title: Brandon University Gold medal in the Master of Science (Environmental and Life Sciences).
 education:
-- area: PhD Artificial Intelligence
-  button:
-    text: Read Thesis
-    url: https://example.com
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Stanford University
+- area: PhD Biology
+  date_end: "2024-11-30"
+  date_start: "2018-09-01"
+  institution: Memorial University of Newfoundland
   summary: |
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+    Thesis on the analysis of the plant pathogenic *Streptomyces* strain 11-1-2 supervised by [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/).
+- area: M.Sc. Life and Environmental Sciences
+  date_end: "2016-09-01"
+  date_start: "2018-06-01"
+  institution: Brandon University
   summary: |
-    GPA: 3.8/4.0
-
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+    Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba. Supervised by [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/).
+      GPA: 4.3/4.3
+- area: Licenciatura Biotechnology Engineering
+  date_end: "2012-02-01"
+  date_start: "2015-03-01"
+  institution: Costa Rica Institute of Technology
   summary: |
-    GPA: 3.4/4.0
-
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-first_name: Shiung Wu
+    GPA: 92/100
+- area: B.Sc Biotechnology Engineering
+  date_end: "2007-02-01"
+  date_start: "2011-03-01"
+  institution: Costa Rica Institute of Technology
+first_name: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant pathology
+- Microbial ecology
+- Chemical and biological control of phytopathogens
 languages:
-- name: English
+- name: Spanish
   percent: 100
-- name: Chinese
-  percent: 75
-- name: Portuguese
-  percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- name: English
+  percent: 90
+last_name: Diaz Cruz
+name_pronunciation: ""
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: CIPROC - UCR
+  url: https://ciproc.ucr.ac.cr
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
+  url: mailto:gustavo.diazcruz@ucr.ac.cr
 - icon: brands/x
-  url: https://twitter.com/GetResearchDev
-- icon: brands/instagram
-  url: https://www.instagram.com/
+  url: https://twitter.com/gdiazcruz
 - icon: brands/github
-  url: https://github.com/gcushen
+  url: https://github.com/gdiazcruz
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/gdiazcruz/
 - icon: academicons/google-scholar
-  url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+  url: https://scholar.google.ca/citations?user=mUJjOd8AAAAJ&hl=en
+role: Researcher and lecturer
 skills:
 - items:
   - description: ""
-    icon: code-bracket
-    name: Python
+    icon: ""
+    name: Molecular Biology
     percent: 80
   - description: ""
-    icon: chart-bar
-    name: Data Science
+    icon: ""
+    name: Microscopy
     percent: 100
   - description: ""
-    icon: circle-stack
-    name: SQL
+    icon: ""
+    name: Microbiology
     percent: 40
   name: Technical Skills
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-simple-walk
-    name: Hiking
-    percent: 60
-  - description: ""
-    icon: cat
-    name: Cats
-    percent: 100
-  - description: ""
     icon: camera
     name: Photography
     percent: 80
   name: Hobbies
 status:
-  icon: ☕️
+  icon: ""
 superuser: true
-title: 吳健雄
+title: Gustavo Diaz Cruz
 work:
 - company_logo: ""
-  company_name: GenCoin
-  company_url: ""
+  company_name: University of Costa Rica
+  company_url: "https://ciproc.ucr.ac.cr"
   date_end: ""
-  date_start: "2021-01-01"
-  position: Director of Cloud Infrastructure
+  date_start: "2024-01-08"
+  position: Plant pathologist research and lecturer
   summary: |-
     Responsibilities include:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Research of plant pathogens
+    - Extension and outreach through the Plant Pathology Clinic
+    - Teaching courses in plant pathology, fungicides, and bacteriology.
 - company_logo: ""
-  company_name: X
+  company_name: Biotech CR GRM S.A.
   company_url: ""
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  position: Backend Software Engineer
+  date_end: "2011-05-15"
+  date_start: "2016-07-31"
+  position: Plant pathology lab supervisor
   summary: |
     Responsibilities include:
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Diagnosis of plant pathogens
+    - Efficacy trials of agrochemicals
+    - Experimental design and trial set up
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a plant pathologist at the [Crop Protection Research Center (CIPROC)](https://ciproc.ucr.ac.cr) of the Agronomy School in the University of Costa Rica. I completed my PhD at Memorial University of Newfoundland (2018-2023) under the supervision of [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/). I completed my MSc in Life and Environmental Sciences at Brandon University under the supervision of [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/). 
