@@ -8,12 +8,11 @@ sections:
     filters:
       folders:
       - project
-    text: I enjoy making things. Here are a selection of projects that I have worked
-      on over the years.
-    title: Selected Projects
+    text: What are we working on?
+    title: Projects
   design:
-    columns: 3
-    fill_image: false
+    columns: 2
+    fill_image: true
     view: article-grid
 title: Projects
 type: landing

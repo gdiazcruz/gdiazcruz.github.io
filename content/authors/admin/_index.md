@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Díaz Cruz"
 education:
-- area: Ph.D Biology
+- area: Ph.D. Biology
   date_end: "2024-11-30"
   date_start: "2018-09-02"
   institution: Memorial University of Newfoundland
@@ -20,7 +20,7 @@ education:
   institution: Costa Rica Institute of Technology
   summary: |
     GPA: 92/100
-- area: B.Sc Biotechnology Engineering
+- area: B.Sc. Biotechnology Engineering
   date_end: "2011-03-01"
   date_start: "2007-02-01"
   institution: Costa Rica Institute of Technology
@@ -99,7 +99,7 @@ work:
   company_url: https://ciproc.ucr.ac.cr
   date_end: ''
   date_start: "2024-01-08"
-  position: Plant pathologist research and lecturer
+  position: Plant pathology researcher and lecturer
   summary: "Responsibilities include:\n- Research of plant pathogens\n- Extension
     and outreach through the Plant Pathology Clinic\n- Teaching courses in plant pathology,
     fungicides, and bacteriology."
