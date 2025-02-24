@@ -24,8 +24,7 @@ sections:
     subtitle: ''
     text: "I am interested in characterizing plant pathogens in Costa Rica and find
       chemical and biological methods to control them.\n\nI am especially interested
-      in *Streptomyces* pathogenic to potato, and neglected fungal and bacterial pathogens
-      in less traditional crops.\n\nPlease reach out to collaborate \U0001F603"
+      in *Streptomyces* pathogenic to potato, and neglected fungal and bacterial pathogens in less traditional crops.\n\nPlease reach out to collaborate \U0001F603"
     title: "\U0001F4DA My Research"
   design:
     columns: '1'
