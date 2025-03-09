@@ -458,18 +458,11 @@ ninja.data = [{
           window.open("mailto:%67%75%73%74%61%76%6F.%64%69%61%7A%63%72%75%7A@%75%63%72.%61%63.%63%72", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/gdiazcruz", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -477,13 +470,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=mUJjOd8AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
