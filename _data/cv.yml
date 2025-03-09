@@ -2,96 +2,67 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Gustavo Díaz Cruz
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Memorial University of Newfoundland
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis on the analysis of the plant pathogenic *Streptomyces* strain 11-1-2.
+        - Supervised by [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/).
+    - title: M.Sc. Life and Environmental Sciences
+      institution: Brandon University
+      year: 2016 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba.
+        - Supervised by [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/).
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher and lecturer
+      institution: Crop Protection Research Center (CIPROC), University of Costa Rica
+      year: 2024 - to date
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching at Agronomy School courses in Plant Pathology, Bacteriology, and Fungicides.
+        - Researching plant diseases.
+    - title: Plant pathology lab supervisor
+      institution: Biotech CR GRM S.A. now Phytolab
+      year: 2011 - 2016
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Plant disease diagnosis.
+        - Agrochemical efficacy trials.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - First prize 3-Minute Thesis competition.        
+    - year: 2018
       items:
-        - Max Planck Medal
+        - Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
+        - Governor General's Gold medal (Master's level)
+        - Brandon University Gold medal in the Master of Science (Environmental and Life Sciences)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Diagnosis of plant pathogens.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Search for emerging pathogens in different crops.
+    - title: Chemical and biological control of diseases.
       items:
-        - Description 1.
-        - Description 2.
+        - Screening for novel biocontrol agents.
+        - Testing fungicides for control of diseases.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Applied bioinformatics.
+    - Streptomyces genetics.
