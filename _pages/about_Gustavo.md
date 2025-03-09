@@ -1,0 +1,1 @@
+Gustavo is originally from the small town of Cedral, Montes de Oro, Puntarenas. Always surrounded by nature and agriculture, he wanted to be a scientist from an early age, inspired by the first Costa Rican astronaut [Dr. Franklin Chang-Díaz](https://en.wikipedia.org/wiki/Franklin_Chang-D%C3%ADaz) (not related!).
