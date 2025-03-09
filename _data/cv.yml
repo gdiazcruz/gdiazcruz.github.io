@@ -4,7 +4,7 @@
     - name: Full Name
       value: Gustavo Díaz Cruz
     - name: Languages
-      value: Spanish, English
+      value: Spanish (native), English (fluent)
 
 - title: Education
   type: time_table
@@ -13,15 +13,20 @@
       institution: Memorial University of Newfoundland
       year: 2018 - 2023
       description:
-        - Thesis on the analysis of the plant pathogenic *Streptomyces* strain 11-1-2.
-        - Supervised by [Dr. Dawn Bignell](https://www.mun.ca/biology/dbignell/).
+        - Thesis on the analysis of the plant pathogenic Streptomyces strain 11-1-2.
+        - Supervised by Dr. Dawn Bignell.
     - title: M.Sc. Life and Environmental Sciences
       institution: Brandon University
       year: 2016 - 2018
       description:
         - Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba.
-        - Supervised by [Dr. Bryan Cassone](https://www.brandonu.ca/biology/faculty-staff/cassone/).
-
+        - Supervised by Dr. Bryan Cassone.
+    - title: B.Sc. and Licenciatura Biotechnology Engineering
+      institution: Instituto Tecnológico de Costa Rica
+      year: 2007 - 2015
+      description:
+        - Worked in projects about plant pathology and microbial ecology.
+        
 - title: Experience
   type: time_table
   contents:
@@ -64,5 +69,7 @@
 - title: Other Interests
   type: list
   contents:
+    - Streptomyces genetics
     - Applied bioinformatics.
-    - Streptomyces genetics.
+    - Microbial ecology.
+    
