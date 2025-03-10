@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-We are searching for commom scab infected potatoes in the main producing region of Costa Rica. There is currently little to no information regarding these pathogens and how they impact potato production in Costa Rica.
+We are searching for common-scab infected potatoes in the main producing region of Costa Rica. There is currently little to no information regarding these pathogens and how they impact potato production in Costa Rica.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,5 +18,5 @@ We are searching for commom scab infected potatoes in the main producing region 
     </div>
 </div>
 <div class="caption">
-    Photos from our field trips to cashew plantations in Esparza and San Mateo in 2024.
+    Common scab symptom (left) and Streptomyces isolates (right).
 </div>
