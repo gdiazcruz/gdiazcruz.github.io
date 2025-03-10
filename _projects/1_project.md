@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Streptomyces
-description: Characterization of plant pathogenic Streptomyces species infecting potatoes in Costa Rica
+description: Characterization of plant pathogenic Streptomyces species infecting potatoes in Costa Rica.
 img: assets/img/papa.png
 importance: 1
 category: work
