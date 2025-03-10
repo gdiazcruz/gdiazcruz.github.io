@@ -407,12 +407,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-streptomyces",
           title: 'Streptomyces',
-          description: "Characterization of plant pathogenic Streptomyces species infecting potatoes in Costa Rica",
+          description: "Characterization of plant pathogenic Streptomyces species infecting potatoes in Costa Rica.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-cashew-tree-diseases",
+          title: 'Cashew tree diseases',
+          description: "Understanding the dieback in cashew trees",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-7",
