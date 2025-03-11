@@ -399,10 +399,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-streptomyces",
+            },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterization of plant pathogenic Streptomyces species infecting potatoes in Costa Rica.",
           section: "Projects",handler: () => {
