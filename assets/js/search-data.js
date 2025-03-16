@@ -415,19 +415,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_1/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-streptomyces",
+          title: 'Streptomyces',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-cashew-tree-diseases",
+          title: 'Cashew tree diseases',
+          description: "Characterizing potential pathogens associated with the dieback in cashew trees",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/2_project/";
             },},{

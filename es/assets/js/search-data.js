@@ -415,21 +415,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/es/news/es/announcement_1/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-streptomyces",
+          title: 'Streptomyces',
+          description: "Caracterización de Streptomyces fitopatógenos en Costa Rica",
           section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/7_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+              window.location.href = "/es/projects/es/1_project/";
+            },},{id: "projects-cashew-tree-diseases",
+          title: 'Cashew tree diseases',
+          description: "Caracterización de potenciales patógenos asociados a la muerte descendente del marañón",
           section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/2_project/";
+              window.location.href = "/es/projects/es/2_project/";
             },},{
         id: 'social-email',
         title: 'Envía un email',
