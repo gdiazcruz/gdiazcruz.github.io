@@ -1,75 +1,75 @@
 
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
+    - name: Nombre
       value: Gustavo Díaz Cruz
-    - name: Languages
-      value: Spanish (native), English (fluent)
+    - name: Idiomas
+      value: Español (materno), inglés (fluido)
 
-- title: Education
+- title: Educación
   type: time_table
   contents:
     - title: PhD
       institution: Memorial University of Newfoundland
       year: 2018 - 2023
       description:
-        - Thesis on the analysis of the plant pathogenic Streptomyces strain 11-1-2.
-        - Supervised by Dr. Dawn Bignell.
+        - Tesis sobre la caracterización del fitopatógeno Streptomyces cepa 11-1-2.
+        - Supervisado por Dra. Dawn Bignell.
     - title: M.Sc. Life and Environmental Sciences
       institution: Brandon University
       year: 2016 - 2018
       description:
-        - Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba.
-        - Supervised by Dr. Bryan Cassone.
-    - title: B.Sc. and Licenciatura Biotechnology Engineering
+        - Uso de Secuencación de siguiente generación para estudiar patógenos foliares de soya en Manitoba.
+        - Supervisado por Dr. Bryan Cassone.
+    - title: Bachillerato y Licenciatura en Ingeniería en Biotecnología
       institution: Instituto Tecnológico de Costa Rica
       year: 2007 - 2015
       description:
-        - Worked in projects about plant pathology and microbial ecology.
+        - Trabajé en proyectos de fitopatología y ecología microbiana.
         
-- title: Experience
+- title: Experiencia
   type: time_table
   contents:
-    - title: Researcher and lecturer
-      institution: Crop Protection Research Center (CIPROC), University of Costa Rica
-      year: 2024 - to date
+    - title: Investigador y docente
+      institution: Centro de Investigación en Protección de Cultivos (CIPROC), Universidad de Costa Rica
+      year: 2024 - presente
       description:
-        - Teaching at Agronomy School courses in Plant Pathology, Bacteriology, and Fungicides.
-        - Researching plant diseases.
-    - title: Plant pathology lab supervisor
-      institution: Biotech CR GRM S.A. now Phytolab
+        - Docente de la Escuela de Agronomía en los cursos de Fitopatología, Bacteriología, y Fungicidas.
+        - Investigador en fitopatógenos.
+    - title: Supervisor de laboratorio en fitopatología
+      institution: Biotech CR GRM S.A. ahora Phytolab
       year: 2011 - 2016
       description:
-        - Plant disease diagnosis.
-        - Agrochemical efficacy trials.
+        - Diagnóstico de enfermedades.
+        - Ensayos de eficacia de agroquímicos.
 
-- title: Honors and Awards
+- title: Premios y reconocimientos
   type: time_table
   contents:
     - year: 2022
       items:
-        - First prize 3-Minute Thesis competition.        
+        - Ganador de la competición 3-Minute Thesis.        
     - year: 2018
       items:
-        - Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
-        - Governor General's Gold medal (Master's level)
-        - Brandon University Gold medal in the Master of Science (Environmental and Life Sciences)
+        - Premio de la Brandon University Alumni Association y Mrs. Kay Gardner.
+        - Medalla de Oro del Gobernador General (Maestría).
+        - Medalla de Oro de Brandon University en la Maestría en Ciencias (Ciencias ambientales y de la vida).
 
-- title: Academic Interests
+- title: Intereses académicos
   type: nested_list
   contents:
-    - title: Diagnosis of plant pathogens.
+    - title: Diagnóstico de fitopatógenos.
       items:
-        - Search for emerging pathogens in different crops.
-    - title: Chemical and biological control of diseases.
+        - Búsqueda de patógenos emergentes.
+    - title: Control biológico y químico de enfermedades.
       items:
-        - Screening for novel biocontrol agents.
-        - Testing fungicides for control of diseases.
+        - Evaluación de nuevos bicontroladores.
+        - Evaluación de fungicidas.
 
-- title: Other Interests
+- title: Otros intereses
   type: list
   contents:
-    - Streptomyces genetics
-    - Applied bioinformatics.
-    - Microbial ecology.
+    - Genética de Streptomyces
+    - Bioinformatica aplicada.
+    - Ecología microbiana.
