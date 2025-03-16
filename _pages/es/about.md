@@ -1,5 +1,6 @@
 ---
-layout: Acerca de
+page_id: about
+layout: about
 title: Acerca de
 permalink: /
 subtitle: <a href='https://ciproc.ucr.ac.cr'>CIPROC</a>, <a href='https://www.ucr.ac.cr'>Universidad de Costa Rica</a> 
