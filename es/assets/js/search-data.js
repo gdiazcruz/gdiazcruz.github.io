@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "a simple whitespace theme for academics",
+          description: "um tema simples para acadêmicos",
           section: "",
           handler: () => {
             window.location.href = "/es/blog/";
@@ -41,9 +41,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-repositórios",
+          title: "repositórios",
+          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
           section: "",
           handler: () => {
             window.location.href = "/es/repositories/";
@@ -69,21 +69,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/es/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/es/blog/";
-              },
-            },{id: "dropdown-publicações",
+        },{id: "dropdown-publicações",
               title: "publicações",
               description: "",
               section: "",
