@@ -20,9 +20,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/es/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications in reversed chronological order.",
+  },{id: "nav-publicaciones",
+          title: "publicaciones",
+          description: "publicaciones en orden cronológico inverso.",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/es/publications/";
