@@ -2,14 +2,14 @@
 page_id: project_2
 layout: page
 title: Cashew tree diseases
-description: Characterizing potential pathogens associated with the dieback in cashew trees
+description: Caracterización de potenciales patógenos asociados a la muerte descendente del marañón
 img: assets/img/rama.png
 importance: 1
 category: work
 giscus_comments: true
 ---
 
-After an outbreak of a dieback in cashew trees in the Pacific region of Costa Rica, no studies determined the causal agent. We are aiming at identifying the plant pathogen(s) responsible for this disease.
+Después de un brote de muerte descendente en árboles de marañón en el Pacífico Central de Costa Rica, no se logró determinar un agente causal. Estamos investigando a los posibles patógenos responsables por esta enfermedad.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,6 +23,6 @@ After an outbreak of a dieback in cashew trees in the Pacific region of Costa Ri
     </div>
 </div>
 <div class="caption">
-    Photos from our field trips to cashew plantations in Esparza and San Mateo in 2024.
+    Fotos de la visita a plantaciones en Esparza y San Mateo en 2024.
 </div>
 

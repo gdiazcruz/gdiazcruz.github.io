@@ -2,14 +2,14 @@
 page_id: project_1
 layout: page
 title: Streptomyces
-description: with background image
+description: Caracterización de Streptomyces fitopatógenos en Costa Rica
 img: assets/img/papa.png
 importance: 2
 category: work
 related_publications: false
 ---
 
-We are searching for common-scab infected potatoes in the main producing region of Costa Rica. There is currently little to no information regarding these pathogens and how they impact potato production in Costa Rica.
+Estamos analizando papas infectadas con sarna común en las principales regiones productoras de este tubérculo en Costa Rica. Actualmente hay poca información con respecto a estos patógenos y su impacto en la producción.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
