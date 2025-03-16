@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: proyectos
 permalink: /projects/
 description: Find out about our work.
 nav: true
