@@ -1,1 +1,75 @@
 
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Gustavo Díaz Cruz
+    - name: Languages
+      value: Spanish (native), English (fluent)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Memorial University of Newfoundland
+      year: 2018 - 2023
+      description:
+        - Thesis on the analysis of the plant pathogenic Streptomyces strain 11-1-2.
+        - Supervised by Dr. Dawn Bignell.
+    - title: M.Sc. Life and Environmental Sciences
+      institution: Brandon University
+      year: 2016 - 2018
+      description:
+        - Used Next Generation Sequencing to study the soybean foliar plant pathogens present in Manitoba.
+        - Supervised by Dr. Bryan Cassone.
+    - title: B.Sc. and Licenciatura Biotechnology Engineering
+      institution: Instituto Tecnológico de Costa Rica
+      year: 2007 - 2015
+      description:
+        - Worked in projects about plant pathology and microbial ecology.
+        
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher and lecturer
+      institution: Crop Protection Research Center (CIPROC), University of Costa Rica
+      year: 2024 - to date
+      description:
+        - Teaching at Agronomy School courses in Plant Pathology, Bacteriology, and Fungicides.
+        - Researching plant diseases.
+    - title: Plant pathology lab supervisor
+      institution: Biotech CR GRM S.A. now Phytolab
+      year: 2011 - 2016
+      description:
+        - Plant disease diagnosis.
+        - Agrochemical efficacy trials.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - First prize 3-Minute Thesis competition.        
+    - year: 2018
+      items:
+        - Brandon University Alumni Association and Mrs. Kay Gardner Scholarship.
+        - Governor General's Gold medal (Master's level)
+        - Brandon University Gold medal in the Master of Science (Environmental and Life Sciences)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Diagnosis of plant pathogens.
+      items:
+        - Search for emerging pathogens in different crops.
+    - title: Chemical and biological control of diseases.
+      items:
+        - Screening for novel biocontrol agents.
+        - Testing fungicides for control of diseases.
+
+- title: Other Interests
+  type: list
+  contents:
+    - Streptomyces genetics
+    - Applied bioinformatics.
+    - Microbial ecology.
