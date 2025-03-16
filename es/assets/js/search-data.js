@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/projects/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Menú de navegación",
+          handler: () => {
+            window.location.href = "/es/cv/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
