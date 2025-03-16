@@ -1,0 +1,1 @@
+Soy originario de Cedral, Montes de Oro, Puntarenas. Crecí en un ambiente agrícola y de naturaleza, y siempre quise estudiar ciencias, inspirado por el primer astronauta costarricense, el [Dr. Franklin Chang-Díaz](https://en.wikipedia.org/wiki/Franklin_Chang-D%C3%ADaz) (sin parentesco).
