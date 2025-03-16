@@ -20,5 +20,5 @@ Estamos analizando papas infectadas con sarna común en las principales regiones
     </div>
 </div>
 <div class="caption">
-    Common scab symptom (left) and Streptomyces isolates (right).
+    Sarna común (izquierda) y aislamientos de Streptomyces (derecha).
 </div>

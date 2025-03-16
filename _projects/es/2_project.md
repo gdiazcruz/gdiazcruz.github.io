@@ -6,7 +6,7 @@ description: Caracterización de potenciales patógenos asociados a la muerte de
 img: assets/img/rama.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Después de un brote de muerte descendente en árboles de marañón en el Pacífico Central de Costa Rica, no se logró determinar un agente causal. Estamos investigando a los posibles patógenos responsables por esta enfermedad.

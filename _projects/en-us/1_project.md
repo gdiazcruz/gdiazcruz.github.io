@@ -2,7 +2,7 @@
 page_id: project_1
 layout: page
 title: Streptomyces
-description: with background image
+description: Characterizing plant pathogenic Streptomyces in Costa Rica
 img: assets/img/papa.png
 importance: 2
 category: work
