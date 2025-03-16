@@ -1,4 +1,5 @@
 ---
+page_id: profiles
 layout: profiles
 permalink: /people/
 title: equipo
