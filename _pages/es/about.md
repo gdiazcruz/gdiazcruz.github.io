@@ -1,5 +1,4 @@
 ---
-page_id: about
 layout: about
 title: Acerca de
 permalink: /
