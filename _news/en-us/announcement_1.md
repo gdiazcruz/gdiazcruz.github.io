@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: The academic year has started!
+date: 2025-03-11 13:15:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+The semester has started and we're ready for it!
+
+---
+
+2025 has been a busy time so far, but at UCR the academic year starts in March! I am teaching an elective course on Fungicides with eight very eager students. We continue our work on Streptomyces, cashew trees, and more things are coming up very soon, so stay tuned!
