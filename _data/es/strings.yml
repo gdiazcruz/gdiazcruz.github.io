@@ -1,1 +1,164 @@
-
+archive:
+  prefix: un archivo de
+  category_suffix: en esta categoría
+  tag_suffix: con esta etiqueta
+  year_suffix: de este año
+bibliography:
+  abstract: Resumen
+  awarded: Dado
+  blog: Blog
+  book_prefix: In
+  code: Código
+  last_author_prefix: y
+  poster: Poster
+  slides: Diapositivas
+  supp: Supp
+  video: Video
+  website: Website
+blog:
+  navigation_title: blog
+categories:
+  fun: Diversión
+  work: Trabajo
+citation:
+  bibtex: "or as a BibTeX entry:"
+  introduction: "Si es útil, citar así:"
+collections:
+  books: libros
+  posts: publicaciones
+contact_note: 
+cv:
+  address: Dirección
+  area: Area
+  awarder: Adjudicador
+  awards: Premios
+  basics: Información General
+  certificates: Certificados
+  city: Ciudad
+  countryCode: Código de país
+  courses: Cursos
+  date: Fecha
+  education: Educación
+  email: Email
+  endDate: Fin
+  fluency: Fluidez
+  highlights: Highlights
+  image: Imagen
+  institution: Institución
+  interests: Intereses
+  issuer: Dado por
+  keywords: Palabras clave
+  label: Etiqueta
+  language: Idioma
+  languages: Idiomas
+  level: Nivel
+  location: Ubicación
+  name: Nombre
+  network: Red
+  organization: Organización
+  phone: Teléfono
+  position: Posición
+  postalCode: Código Postal
+  present: Hoy
+  profiles: Perfiles
+  projects: Proyectos
+  publications: Publicaciones
+  publisher: Publicador
+  reference: Referencia
+  references: Referencias
+  region: Región
+  releaseDate: Fecha de publicación
+  score: Nota
+  skills: Habilidades
+  startDate: Fecha de inicio
+  studyType: Tipo de estudio
+  summary: Resumen
+  table_of_contents: Indice
+  title: Título
+  url: Url
+  username: Usuario
+  volunteer: Voluntario
+  work: Trabajo
+footer:
+  copyright: Copyright
+  last_updated: "Actualizado:"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Impulsado por <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Alojado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Fotos de <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: publicaciones recientes
+months:
+  long:
+    january: Enero
+    february: Febrero
+    march: Marzo
+    april: Abril
+    may: Mayo
+    june: Junio
+    july: Julio
+    august: Agosto
+    september: Setiembre
+    october: Octubre
+    november: Noviembre
+    december: Diciembre
+  short:
+    january: Ene
+    february: Feb
+    march: Mar
+    april: Abr
+    may: Mayo
+    june: Jun
+    july: Jul
+    august: Ago
+    september: Set
+    october: Oct
+    november: Nov
+    december: Dic
+news: news
+newsletter:
+  back: Back
+  error: "Algo no funciona, intenta de nuevo."
+  subscribe: suscríbete
+  subscribed: "Te has suscrito exitosamente."
+  subscribe_to_receive: "Suscríbete para nuevas entregas:"
+  too_many_signups: "Muchos intentos, intenta de nuevo en un rato"
+  wait: "Espera por favor..."
+no_news: No hay noticias...
+no_posts: "No hay publicaciones..."
+pagination:
+  page: página
+post:
+  created_in: Creado
+  created_by: por
+  last_updated: actualizado en
+references: Referencias
+related_posts:
+  description: "Otros artículos que podrían ser de interés:"
+  title: ¿Disfrutando el artículo?
+search:
+  dark_theme:
+    description: Cambiar a modo oscuro
+    title: Cambiar a modo oscuro
+  dropdown: Menú desplegable
+  email: Envía un email
+  footer:
+    close: cerrar
+    navigate: navegar
+    parent: cambiar
+    select: seleccionar
+  languages: Idiomas
+  light_theme:
+    description: Cambiar a modo claro
+    title: Cambiar a modo claro
+  navigation: Menú de navegación
+  news: News
+  placeholder: Digite para buscar
+  posts: Publicaciones
+  projects: Proyectos
+  socials: Redes sociales
+  system_theme:
+    description: Cambiar al modo por defecto
+    title: Usar modo por defecto
+  theme: Tema
+selected_publications: publicaciones selectas
+site_description: Based on [*folio](https://github.com/bogoli/-folio) design.
