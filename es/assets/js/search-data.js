@@ -444,7 +444,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Redes sociales',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Gustavo-Diaz-Cruz/", "_blank");
+          window.open("https://www.researchgate.net/profile/Gustavo-Diaz-Cruz/", "_blank");
         },
       },{
         id: 'social-scholar',

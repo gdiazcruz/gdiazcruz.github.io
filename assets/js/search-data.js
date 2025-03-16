@@ -417,7 +417,7 @@ ninja.data = [{
               window.location.href = "/news/en-us/announcement_1/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
-          description: "with background image",
+          description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/1_project/";
             },},{id: "projects-cashew-tree-diseases",
@@ -444,7 +444,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Gustavo-Diaz-Cruz/", "_blank");
+          window.open("https://www.researchgate.net/profile/Gustavo-Diaz-Cruz/", "_blank");
         },
       },{
         id: 'social-scholar',
