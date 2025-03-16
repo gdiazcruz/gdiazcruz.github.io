@@ -417,18 +417,12 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/es/books/pt-br/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-el-año-académico-ha-iniciado",
+          title: 'El año académico ha iniciado',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/es/news/en-us/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-7",
+              window.location.href = "/es/news/es/announcement_1/";
+            },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Proyectos",handler: () => {
