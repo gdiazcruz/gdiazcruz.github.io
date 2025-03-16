@@ -27,9 +27,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-proyectos",
+          title: "proyectos",
+          description: "Find out about our work.",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/es/projects/";
@@ -40,13 +40,6 @@ ninja.data = [{
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/es/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Menú de navegación",
-          handler: () => {
-            window.location.href = "/es/teaching/";
           },
         },{id: "nav-equipo",
           title: "equipo",
@@ -427,16 +420,6 @@ ninja.data = [{
           description: "with background image",
           section: "Proyectos",handler: () => {
               window.location.href = "/es/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/9_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -447,26 +430,6 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Proyectos",handler: () => {
               window.location.href = "/es/projects/en-us/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/6_project/";
             },},{
         id: 'social-email',
         title: 'Envía un email',
@@ -480,6 +443,13 @@ ninja.data = [{
         section: 'Redes sociales',
         handler: () => {
           window.open("https://github.com/gdiazcruz", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Redes sociales',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Gustavo-Diaz-Cruz/", "_blank");
         },
       },{
         id: 'social-scholar',
