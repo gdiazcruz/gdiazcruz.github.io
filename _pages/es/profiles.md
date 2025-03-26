@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: gdc_micro.jpg
     content: about_Gustavo_es.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       
   - align: left
