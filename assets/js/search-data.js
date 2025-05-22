@@ -415,11 +415,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_1/";
-            },},{id: "news-avances-en-marañón",
-          title: 'Avances en marañón',
+            },},{id: "news-progress-with-the-cashew-project",
+          title: 'Progress with the cashew project!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/es/announcement_2/";
+              window.location.href = "/news/en-us/announcement_2/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
