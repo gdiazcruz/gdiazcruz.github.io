@@ -415,6 +415,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/es/news/es/announcement_1/";
+            },},{id: "news-avances-en-marañón",
+          title: 'Avances en marañón',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/es/news/es/announcement_2/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Caracterización de Streptomyces fitopatógenos en Costa Rica",

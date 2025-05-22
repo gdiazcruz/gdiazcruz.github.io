@@ -415,6 +415,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_1/";
+            },},{id: "news-avances-en-marañón",
+          title: 'Avances en marañón',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/es/announcement_2/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
