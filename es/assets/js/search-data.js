@@ -420,11 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/es/news/es/announcement_2/";
-            },},{id: "news-fungicide-testing-is-underway",
-          title: 'Fungicide testing is underway!',
+            },},{id: "news-las-pruebas-con-fungicidas-están-en-progreso",
+          title: '¡Las pruebas con fungicidas están en progreso!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/es/news/en-us/announcement_3/";
+              window.location.href = "/es/news/es/announcement_3/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Caracterización de Streptomyces fitopatógenos en Costa Rica",
