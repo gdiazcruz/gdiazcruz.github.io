@@ -435,6 +435,11 @@ ninja.data = [{
           description: "Characterizing potential pathogens associated with the dieback in cashew trees",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/2_project/";
+            },},{id: "projects-purple-blotch-of-onion",
+          title: 'Purple blotch of onion',
+          description: "Analyzing the fungal communities associated with purple blotch of onion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/en-us/3_project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
