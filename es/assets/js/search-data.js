@@ -435,11 +435,11 @@ ninja.data = [{
           description: "Caracterización de potenciales patógenos asociados a la muerte descendente del marañón",
           section: "Proyectos",handler: () => {
               window.location.href = "/es/projects/es/2_project/";
-            },},{id: "projects-purple-blotch-of-onion",
-          title: 'Purple blotch of onion',
-          description: "Analyzing the fungal communities associated with purple blotch of onion",
+            },},{id: "projects-mancha-púrpura-de-la-cebolla",
+          title: 'Mancha púrpura de la cebolla',
+          description: "Investigando las comunidades fúngicas asociadas a la mancha púrpura de la cebolla",
           section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en-us/3_project/";
+              window.location.href = "/es/projects/es/3_project/";
             },},{
         id: 'social-email',
         title: 'Envía un email',
