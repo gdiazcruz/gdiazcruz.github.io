@@ -425,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/es/news/es/announcement_3/";
+            },},{id: "news-atención-nueva-publicacion",
+          title: '¡Atención! ¡NUEVA PUBLICACION!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/es/news/es/announcement_4/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Caracterización de Streptomyces fitopatógenos en Costa Rica",

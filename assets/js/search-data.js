@@ -425,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_3/";
+            },},{id: "news-new-paper-alert",
+          title: 'NEW PAPER ALERT!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/en-us/announcement_4/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
