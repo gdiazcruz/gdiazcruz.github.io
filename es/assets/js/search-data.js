@@ -415,6 +415,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/es/news/es/announcement_1/";
+            },},{id: "news-we-continue-our-hard-work",
+          title: 'We continue our hard work!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/es/news/en-us/announcement_5/";
             },},{id: "news-avances-en-marañón",
           title: 'Avances en marañón',
           description: "",
