@@ -415,11 +415,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_1/";
-            },},{id: "news-we-continue-our-hard-work",
-          title: 'We continue our hard work!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/en-us/announcement_5/";
             },},{id: "news-progress-with-the-cashew-project",
           title: 'Progress with the cashew project!',
           description: "",
@@ -435,6 +430,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_4/";
+            },},{id: "news-we-continue-our-hard-work",
+          title: 'We continue our hard work!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/en-us/announcement_5/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
