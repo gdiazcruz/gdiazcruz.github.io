@@ -48,13 +48,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/cv/";
           },
-        },{id: "nav-equipo",
-          title: "equipo",
-          description: "Equipo de trabajo",
-          section: "Menú de navegación",
-          handler: () => {
-            window.location.href = "/es/people/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
