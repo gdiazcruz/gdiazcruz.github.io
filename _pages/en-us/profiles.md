@@ -22,7 +22,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >     
 
- - align: right
+  - align: right
     image: arturo.jpg
     content: about_Arturo.md
     image_circular: false # crops the image to make it circular
