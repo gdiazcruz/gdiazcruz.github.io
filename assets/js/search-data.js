@@ -35,7 +35,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-people",
-          title: "People",
+          title: "people",
           description: "",
           section: "Navigation menu",
           handler: () => {
