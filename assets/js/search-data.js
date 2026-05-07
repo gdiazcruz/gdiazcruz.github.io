@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -41,9 +48,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-equipo",
+          title: "equipo",
+          description: "Equipo de trabajo",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/people/";
