@@ -27,3 +27,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
+
+### Tesiarios anteriores
+- **Luz Elena Baldí (2024-2025)**: Efecto de un bioestimulante a base de Trichoderma sp. y Streptomyces sp. en el desarrollo del híbrido de maíz DK-390. Práctica Dirigida.
