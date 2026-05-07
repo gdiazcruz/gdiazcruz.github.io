@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: equipo
 permalink: /people/
 nav: true
 nav_order: 4
