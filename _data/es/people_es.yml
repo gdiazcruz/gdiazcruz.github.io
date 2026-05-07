@@ -1,0 +1,21 @@
+current:
+  - name: Gustavo Díaz Cruz
+    role: Investigador Principal
+    description: Soy originario de Cedral, Montes de Oro, Puntarenas. Crecí en un ambiente agrícola y de naturaleza, y siempre quise estudiar ciencias, inspirado por el primer astronauta costarricense, el Dr. Franklin Chang-Díaz (sin parentesco!).
+    photo: /assets/img/gdc_micro.jpg
+    
+  - name: Mario Salas Montero
+    role: Tesiario de Licenciatura
+    description: Mario tiene un bachillerato en Ingeniería en Agronomía de la Universidad de Costa Rica. “Me considero apasionado por la fitopatología, con experiencia en aislamiento de fitopatógenos, y pruebas tanto de laboratorio como de invernadero para evaluar sensibilidad a fungicidas. Mi tesis se basa en la caracterización morfológica y molecular de hongos de la familia Botryosphaeriaceae causantes de muerte descendente en diferente árboles frutales de Costa Rica, además de evaluar el efecto de diferentes fungicidas frente a la exposición de estos al patógeno”.
+    photo: /assets/img/mario.jpg
+
+  - name: Arturo Gutiérrez Pizarro
+    role: Tesiario de Licenciatura
+    description: Arturo tiene un bachillerato en Ingeniería en Agronomía de la Universidad de Costa Rica y en Enseñanza de las Ciencias por la UNED. Actualmente trabaja como asesor técnico en hortalizas y varios cultivos en la zona de Cartago, y tiene mucho interés en el manejo responsable de agroquímicos. Su tema de tesis es la identificación de especies de Stemphylium asociadas al cultivo de cebolla y su sensibilidad a fungicidas.
+    photo: /assets/img/arturo.jpg
+
+alumni:
+  - name: Luz Elena Baldí
+    degree: Licenciatura in Agronomy
+    year: 2025
+    current: Phyolab
