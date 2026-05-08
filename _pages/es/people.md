@@ -8,10 +8,10 @@ nav_order: 4
 
 {% assign lang = site.lang | default: site.default_lang %}
 
-{% if lang == "es" %}
-  {% assign data = site.data.people_es %}
+{% if site.active_lang == site.default_lang %}
+  <a class="nav-link" href="/people/">EN-US</a>
 {% else %}
-  {% assign data = site.data.people_en %}
+  <a class="nav-link" href="/{{ site.active_lang }}/people/">EN-US</a>
 {% endif %}
 
 <div class="people-section">
