@@ -1,18 +1,14 @@
 ---
 layout: page
-title: equipo
+title: personas
 permalink: /people/
 nav: true
 nav_order: 4
+lang: es
 ---
 
-{% assign lang = site.lang | default: site.default_lang %}
-
-{% if site.active_lang == site.default_lang %}
-  <a class="nav-link" href="/people/">EN-US</a>
-{% else %}
-  <a class="nav-link" href="/{{ site.active_lang }}/people/">EN-US</a>
-{% endif %}
+{% assign lang = site.active_lang | default: site.default_lang %}
+{% assign data = site.data[lang].people %}
 
 <div class="people-section">
   <h1>{{ data.labels.current_members }}</h1>
