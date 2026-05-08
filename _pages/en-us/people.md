@@ -7,9 +7,11 @@ nav_order: 4
 lang: en-us
 ---
 
-{% assign lang = site.active_lang | default: site.default_lang %}
-
-{% assign data = site.data[lang].people %}
+{% if site.active_lang == 'es' %}
+  {% assign data = site.data.people_es %}
+{% else %}
+  {% assign data = site.data.people_en %}
+{% endif %}
 
 <div class="people-section">
   <h1>{{ data.labels.current_members }}</h1>
