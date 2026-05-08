@@ -24,7 +24,7 @@ nav_order: 4
       {% if person.photo %}
       <img
         class="person-photo"
-        src="{{ person.photo | relative_url }}"
+        src="{{ person.photo }}"
         alt="{{ person.name }}"
       >
       {% endif %}
