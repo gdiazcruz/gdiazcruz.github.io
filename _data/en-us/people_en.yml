@@ -2,18 +2,15 @@ current:
   - name: Gustavo Díaz Cruz
     role: Principal Investigator
     description: I am originally from the small town of Cedral, Montes de Oro, Puntarenas. Always surrounded by nature and agriculture, I wanted to be a scientist from an early age, inspired by the first Costa Rican astronaut Dr. Franklin Chang-Díaz (not related!)..
-    photo: /assets/img/gdc_micro.jpg
-    
+        
   - name: Mario Salas Montero
     role: Licenciatura student
     description: Mario has a BSc in Agronomy from the University of Costa Rica. “I am passionate about plant pathology, with experience in pathogen isolation, and both lab and greenhouse fungicide testing trials. My Licenciatura thesis looks at characterizing different isolates from the Botryosphaeriaceae family obtained from different hosts in Costa Rica, as well as evaluating their sensitivity to fungicides”.
-    photo: /assets/img/mario.jpg
-
+    
   - name: Arturo Gutiérrez Pizarro
     role: Licenciatura student
     description: Arturo has a BSc in Agronomy from University of Costa Rica and a BSc in Natural Sciences teaching from UNED. He works as a consultant and advisor for different crops in Cartago, and has interest in responsible use of pesticides. His thesis work is looking into the Stemphylium species associated with onion and their sensitivity to fungicides..
-    photo: /assets/img/arturo.jpg
-
+    
 alumni:
   - name: Luz Elena Baldí
     degree: Licenciatura in Agronomy
