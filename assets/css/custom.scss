@@ -25,13 +25,13 @@
 }
 
 .person-photo {
-  width: 160px;
-  height: 160px;
+  width: 160px !important;
+  height: 160px !important;;
 
-  object-fit: cover;
-  object-position: center;
+  object-fit: cover !important;
+  object-position: center !important;
 
-  border-radius: 50%;
+  border-radius: 50% !important;
 
   display: block;
   margin-bottom: 1rem;
