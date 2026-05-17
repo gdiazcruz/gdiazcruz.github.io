@@ -18,18 +18,23 @@
   border-radius: 14px;
   background: #ffffff;
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .person-photo {
   width: 160px;
   height: 160px;
-  min-width: 160px;
-  min-height: 160px;
+
   object-fit: cover;
   object-position: center;
+
   border-radius: 50%;
+
   display: block;
-  margin: 0 auto 1rem auto;
+  margin-bottom: 1rem;
 }
 
 .person-role {
@@ -44,7 +49,8 @@
 
 .person-link {
   display: inline-block;
-  margin-top: 0.75rem;
+  margin-top: auto;
+  padding-top: 1rem;
 }
 
 .alumni-position {
