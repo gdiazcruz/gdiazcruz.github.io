@@ -445,9 +445,9 @@ ninja.data = [{
           description: "Caracterización de potenciales patógenos asociados a la muerte descendente del marañón",
           section: "Proyectos",handler: () => {
               window.location.href = "/es/projects/es/2_project/";
-            },},{id: "projects-mancha-púrpura-de-la-cebolla",
-          title: 'Mancha púrpura de la cebolla',
-          description: "Investigando las comunidades fúngicas asociadas a la mancha púrpura de la cebolla",
+            },},{id: "projects-tizón-foliar-de-la-cebolla",
+          title: 'Tizón foliar de la cebolla',
+          description: "Investigando las comunidades microbianas asociadas al tizón foliar de la cebolla",
           section: "Proyectos",handler: () => {
               window.location.href = "/es/projects/es/3_project/";
             },},{
