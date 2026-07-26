@@ -435,6 +435,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_5/";
+            },},{id: "news-mario-presented-our-research-results-in-the-cfcs-annual-meeting",
+          title: 'Mario presented our research results in the CFCS annual meeting!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/en-us/announcement_6/";
             },},{id: "projects-streptomyces",
           title: 'Streptomyces',
           description: "Characterizing plant pathogenic Streptomyces in Costa Rica",
