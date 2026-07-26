@@ -1,6 +1,7 @@
+---
 layout: post
 title: ¡Mario presentó nuestra investigación en la reunión anual de la CFCS!
-date: 2026-07-26 13:15:00-0400
+date: 2026-07-26 07:00:00-0600
 inline: false
 related_posts: false
 ---
